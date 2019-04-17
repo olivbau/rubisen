@@ -7,3 +7,6 @@
 [submodule "rubisenSandbox"]
 	path = rubisenSandbox
 	url = https://github.com/olivbau/rubisenSandbox
+[submodule "rubisenMappy"]
+	path = rubisenMappy
+	url = https://github.com/JulesMicho/rubisenMappy
