@@ -1,14 +1,3 @@
-<h1 align="center"> Reconnaissance comportementale avec un Rubik's Cube <br></h1>
-<div align="center">
-  <h3>📦📦</h3>
-    <p>
-    	Projet de reconnaissance comportementale avec un Rubik's Cube<br>
-        ISEN - Avril 2019
-    </p>
-</div>
-
-
-
 ## Table des matières
 - [Introduction](#Introduction)
 - [rubisenNotebooks](#rubisenNotebooks)
