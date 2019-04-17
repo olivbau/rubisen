@@ -11,6 +11,7 @@
 - [rubisenNotebooks](#rubisenNotebooks)
 - [rubisenMappy](#rubisenMappy)
 - [rubisenPOC](#rubisenPOC)
+- [Authors](#Authors)
 
 
 ## Introduction
