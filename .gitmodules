@@ -1,0 +1,9 @@
+[submodule "rubisenPOC-API"]
+	path = rubisenPOC-API
+	url = https://github.com/olivbau/rubisenPOC-API
+[submodule "rubisenPOC-Front"]
+	path = rubisenPOC-Front
+	url = https://github.com/olivbau/rubisenPOC-Front
+[submodule "rubisenSandbox"]
+	path = rubisenSandbox
+	url = https://github.com/olivbau/rubisenSandbox
