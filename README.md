@@ -20,6 +20,11 @@ La partie rubisenNotebooks contient des notebooks jupyter montrant comment nous 
 *[https://github.com/JulesMicho/rubisenMappy](https://github.com/JulesMicho/rubisenMappy)*<br>
 La partie rubisenMappy est un utilitaire python permettant de mapper des touches de clavier à un mouvement du cube Giiker. Il permet aussi d'utiliser le cube pour iteragir avec tous types de progammes, pour jouer, faire de la musique, bouger la souris, etc. Pour plus de détails techniques rendez-vous dans le github du projet.
 
+## rubisenSandbox
+
+*[https://github.com/olivbau/rubisenSandbox](https://github.com/olivbau/rubisenSandbox)*<br>
+La partie rubisenSandbox est un site web qui nous a permis de faire tous types d'éxpérimentation avec le cube, notament pour la connectivitée. Ce site est disponible [ici](https://olivbau.github.io/rubisenSandbox/#/)
+
 ## rubisenPOC
 
 *[https://github.com/olivbau/rubisenPOC-API](https://github.com/olivbau/rubisenPOC-API)*<br>
