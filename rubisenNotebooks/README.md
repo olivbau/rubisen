@@ -1,4 +1,4 @@
-## Introduction
+## README
 
 Dans ce dossier vous trouverez plusieurs notebooks, le but de ces notebooks est d'éxplorer la reconnaissance comportementale avec le Rubik's cube connecté [Giiker](http://giiker.cn/).
 
