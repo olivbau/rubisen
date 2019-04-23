@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Le but de ce projet est déplorer les possibilitées que nous offre le Rubik's cube connecté [Giiker](http://giiker.cn/). Nous nous sommes principalement penché sur la reconnaissance comportementale. Vous trouverez dans les parties suivantes nos différents travaux.
+Le but de ce projet est d'éxplorer les possibilitées que nous offre le Rubik's cube connecté [Giiker](http://giiker.cn/). Nous nous sommes principalement penché sur la reconnaissance comportementale. Vous trouverez dans les parties suivantes nos différents travaux.
 
 ## rubisenNotebooks
 
