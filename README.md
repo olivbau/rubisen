@@ -31,6 +31,7 @@ La partie rubisenSandbox est un site web qui nous a permis de faire tous types d
 *[https://github.com/olivbau/rubisenPOC-API](https://github.com/olivbau/rubisenPOC-API)*<br>
 *[https://github.com/olivbau/rubisenPOC-Front](https://github.com/olivbau/rubisenPOC-Front)*<br>
 *[Vidéo de présentation](https://youtu.be/8QRXt5uRwvI)*<br>
+[![POC rubisen](https://img.youtube.com/vi/8QRXt5uRwvI/0.jpg)](https://youtu.be/8QRXt5uRwvI)<br>
 La partie rubisenPOC est un site web composé d'une API et d'une partie front. Ce site web permet à un utilisateur de se créer un compte avec pour mot de passe une séquence qu'il composera avec le cube Giiker. L'authentification d'un utilisateur, en plus de vérifier la séquence (mot de passe) choisie par l'utilisateur, vérifie que l'éxécution de la séquence correspond à celle de l'utilisateur (grâce à un entraînement réalisé par l'utilisateur à l'inscription). Pour plus de détails techniques, rendez-vous dans les github respectifs.
 
 ## Authors
