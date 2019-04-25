@@ -1,5 +1,5 @@
 <a align="center" href="http://www.youtube.com/watch?feature=player_embedded&v=SgNfrJ4Pey4
-" target="_blank"><img src="http://img.youtube.com/vi/SgNfrJ4Pey4/0.jpg" 
+" target="_blank"><img align="center" src="http://img.youtube.com/vi/SgNfrJ4Pey4/0.jpg" 
 alt="rubisen" width="240" height="180" border="10" /></a>
 
 ## Table des matières
